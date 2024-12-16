@@ -1,0 +1,125 @@
+\documentclass[11pt]{article}
+
+
+% --- Packages ---
+\usepackage{amsmath, amsthm, amsfonts, amssymb, hyperref, soul, latexsym, stmaryrd, booktabs} % fonts and characters
+\usepackage{enumitem, ytableau, comment, graphicx, makecell, appendix, titling, scrextend, float, multirow, placeins, subcaption} % utilities
+\usepackage{tikz, tikz-cd, tikzsymbols, pgfplots} % plots crap
+\pgfplotsset{compat=1.18}
+\usepackage{blkarray} % random math 
+\usepackage{pstricks,pst-node,pst-tree} % networks
+\usepackage{verbatim} % write code
+\newlength\myverbindent % indent code
+\setlength\myverbindent{0.5in} % change this to change indentation
+\makeatletter
+\def\verbatim@processline{%
+  \hspace{\myverbindent}\the\verbatim@line\par}
+
+
+% --- Matplotlib ---
+% we import figures as pgfplots, which means its exported as tex to matplotlib
+% to do this, we need certain commands in the premable to compile the way it shoud
+\def\mathdefault#1{#1}
+\everymath=\expandafter{\the\everymath\displaystyle}
+\makeatletter\@ifpackageloaded{underscore}{}{\usepackage[strings]{underscore}}\makeatother
+
+
+% --- Formatting ---
+\usepackage{fullpage} % margins
+\usepackage{setspace}
+\doublespacing
+
+\numberwithin{equation}{section} % number equations with section number
+\numberwithin{figure}{section} % number figure with section number
+\numberwithin{table}{section} % number table with section number
+
+
+% --- Math Crap ---
+\newcommand{\E}{\mathbb{E}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\lagr}{\mathcal{L}}
+\newcommand{\e}{\varepsilon}
+\renewcommand{\sup}{\text{sup}}
+\renewcommand{\inf}{\text{inf}}
+\renewcommand{\d}{\delta}
+\renewcommand{\Re}{\text{Re}}
+\renewcommand{\Im}{\text{Im}}
+\newcommand{\Arg}{\text{Arg}}
+\newcommand{\Var}{\mathrm{Var}}
+\newcommand{\Cov}{\mathrm{Cov}}
+
+
+% --- Bibliography ---
+\usepackage[style=apa, backend=biber, ibidtracker=false]{biblatex} % packages
+\bibliography{sources} % .bib file
+
+
+% --- Title ---
+\title{Estimating Fiscal Multipliers: An SVAR Approach}
+\author{Gavin Engelstad\thanks{Replication code available at \url{https://github.com/GavinEngelstad/SVAR-Fiscal-Multiplier}.} \\ \href{mailto:gengelst@macalester.edu}{gengelst@macalester.edu} \and Samina Stack \\ \href{mailto:sstack@macalester.edu}{sstack@macalester.edu}}
+\date{Fall 2024}
+
+%% --- Document ---
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+    TBD
+\end{abstract}
+
+%% --- Paper Sections ---
+% --- Introduction ---
+\section{Introduction} \label{sec:intro}
+\input{sections/01_intro}
+
+% --- Lit Review ---
+\section{Lit Review} \label{sec:lit}
+\input{sections/02_lit_review}
+
+% --- Empirical Strategy ---
+\section{Empirical Strategy} \label{sec:emp}
+\input{sections/03_emp_strat}
+
+% --- Data ---
+\section{Data} \label{sec:data}
+\input{sections/04_data}
+
+% --- Results ---
+\section{Results} \label{sec:results}
+\input{sections/05_results}
+
+% --- Robustness ---
+\section{Robustness} \label{sec:robust}
+\input{sections/06_robustness}
+% time heterogenaity (2007+?)
+% More/less lags
+% Use 2.08 instead of 1.7 (follow blanchard perrotti)
+% Fed funds rate?
+
+% --- Conclusion ---
+\section{Conclusion} \label{sec:concl}
+\input{sections/07_concl}
+
+
+%% --- References ---
+\newpage
+\printbibliography
+\FloatBarrier
+
+
+% %% --- Appendix ---
+% \newpage
+% \appendix
+
+% % --- Example ---
+% \section{Example Appendix} \label{app:ex}
+% \input{sections/Ax_ex}
+% \FloatBarrier
+
+
+\end{document}
