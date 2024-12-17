@@ -1,0 +1,16 @@
+\begin{psmatrix}[colsep=3cm, rowsep=1cm]
+    % nodes
+    $u_t^x$ & $\varepsilon_t^x$ \\
+    $u_t^g$ & $\varepsilon_t^g$ \\
+    $u_t^t$ & $\varepsilon_t^t$
+
+    % first column of arrows
+    \ncline[nodesep=5pt]{->}{2,1}{1,1}
+    \ncarc[nodesep=5pt,arcangle=15]{->}{3,1}{1,1}
+    \ncarc[nodesep=5pt,arcangle=-25,linewidth=1.5pt]{->}{1,1}{3,1}
+    \ncline[nodesep=5pt]{->}{1,2}{1,1}
+    \ncline[nodesep=5pt]{->}{2,2}{2,1}
+    \ncline[nodesep=5pt]{->}{3,2}{3,1}
+    \ncline[nodesep=5pt,linestyle=dashed,dash=3pt 2pt]{->}{2,2}{3,1}
+    \ncline[nodesep=5pt,linestyle=dashed,dash=3pt 2pt]{->}{3,2}{2,1}
+\end{psmatrix}
