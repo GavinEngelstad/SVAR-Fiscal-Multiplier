@@ -152,6 +152,50 @@
       \field{pages}{1\bibrangedash 13}
       \range{pages}{13}
     \endentry
+    \entry{arin2015fiscal}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e66d44d88c4c6435349784c87f85a958}{%
+           family={Arin},
+           familyi={A\bibinitperiod},
+           given={K\bibnamedelima Peren},
+           giveni={K\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c869754f4f336423c875d7236af880f2}{%
+           family={Koray},
+           familyi={K\bibinitperiod},
+           given={Faik},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4cd7193bf44a80e6636f91b72931775f}{%
+           family={Spagnolo},
+           familyi={S\bibinitperiod},
+           given={Nicola},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{11266f945e1b741807323f824af91d2c}
+      \strng{fullhash}{8c82257019b18c8c812f2549a539cda8}
+      \strng{bibnamehash}{8c82257019b18c8c812f2549a539cda8}
+      \strng{authorbibnamehash}{8c82257019b18c8c812f2549a539cda8}
+      \strng{authornamehash}{11266f945e1b741807323f824af91d2c}
+      \strng{authorfullhash}{8c82257019b18c8c812f2549a539cda8}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Macroeconomics}
+      \field{title}{Fiscal multipliers in good times and bad times}
+      \field{volume}{44}
+      \field{year}{2015}
+      \field{pages}{303\bibrangedash 311}
+      \range{pages}{9}
+    \endentry
     \entry{barro2011macroeconomic}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=12e80febb122b75421416b9e181d4657}{%
@@ -257,6 +301,50 @@
       \field{year}{2018}
       \field{pages}{1425\bibrangedash 1470}
       \range{pages}{46}
+    \endentry
+    \entry{berge2021fiscal}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=5a50566ea772395067292532bd86513f}{%
+           family={Berge},
+           familyi={B\bibinitperiod},
+           given={Travis},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6979298cd847110a653742e21385e651}{%
+           family={De\bibnamedelima Ridder},
+           familyi={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Maarten},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bfbe56e4b49367d3a5448ac5a5fbd69a}{%
+           family={Pfajfar},
+           familyi={P\bibinitperiod},
+           given={Damjan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{7bea3e345a38a3fe05c1ea4bc589d034}
+      \strng{fullhash}{6062ea7393c72e7cc409c39b03d685a0}
+      \strng{bibnamehash}{6062ea7393c72e7cc409c39b03d685a0}
+      \strng{authorbibnamehash}{6062ea7393c72e7cc409c39b03d685a0}
+      \strng{authornamehash}{7bea3e345a38a3fe05c1ea4bc589d034}
+      \strng{authorfullhash}{6062ea7393c72e7cc409c39b03d685a0}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Economic Review}
+      \field{title}{When is the fiscal multiplier high? A comparison of four business cycle phases}
+      \field{volume}{138}
+      \field{year}{2021}
+      \field{pages}{103852}
+      \range{pages}{1}
     \endentry
     \entry{blanchard2002empirical}{article}{}
       \name{author}{2}{}{%
@@ -708,6 +796,51 @@
       \field{year}{2020}
       \field{pages}{1\bibrangedash 19}
       \range{pages}{19}
+    \endentry
+    \entry{gali2007understanding}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=9f86081942834923a86a56e2f4d2a7cd}{%
+           family={Galí},
+           familyi={G\bibinitperiod},
+           given={Jordi},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f19bbb84b71314647fa00b2b9e08429f}{%
+           family={López-Salido},
+           familyi={L\bibinithyphendelim S\bibinitperiod},
+           given={J\bibnamedelima David},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=29e9241f2e882fe10dd5a243f1b22f38}{%
+           family={Vallés},
+           familyi={V\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{f66b663631da89f387d61bb2711e3835}
+      \strng{fullhash}{4852cf9b099edc2168bcb3bd9f422f48}
+      \strng{bibnamehash}{4852cf9b099edc2168bcb3bd9f422f48}
+      \strng{authorbibnamehash}{4852cf9b099edc2168bcb3bd9f422f48}
+      \strng{authornamehash}{f66b663631da89f387d61bb2711e3835}
+      \strng{authorfullhash}{4852cf9b099edc2168bcb3bd9f422f48}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the european economic association}
+      \field{number}{1}
+      \field{title}{Understanding the effects of government spending on consumption}
+      \field{volume}{5}
+      \field{year}{2007}
+      \field{pages}{227\bibrangedash 270}
+      \range{pages}{44}
     \endentry
     \entry{gechert2012fiscal}{report}{}
       \name{author}{2}{}{%
@@ -1489,6 +1622,50 @@
       \field{pages}{1\bibrangedash 13}
       \range{pages}{13}
     \endentry
+    \entry{arin2015fiscal}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e66d44d88c4c6435349784c87f85a958}{%
+           family={Arin},
+           familyi={A\bibinitperiod},
+           given={K\bibnamedelima Peren},
+           giveni={K\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c869754f4f336423c875d7236af880f2}{%
+           family={Koray},
+           familyi={K\bibinitperiod},
+           given={Faik},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4cd7193bf44a80e6636f91b72931775f}{%
+           family={Spagnolo},
+           familyi={S\bibinitperiod},
+           given={Nicola},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{11266f945e1b741807323f824af91d2c}
+      \strng{fullhash}{8c82257019b18c8c812f2549a539cda8}
+      \strng{bibnamehash}{8c82257019b18c8c812f2549a539cda8}
+      \strng{authorbibnamehash}{8c82257019b18c8c812f2549a539cda8}
+      \strng{authornamehash}{11266f945e1b741807323f824af91d2c}
+      \strng{authorfullhash}{8c82257019b18c8c812f2549a539cda8}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Macroeconomics}
+      \field{title}{Fiscal multipliers in good times and bad times}
+      \field{volume}{44}
+      \field{year}{2015}
+      \field{pages}{303\bibrangedash 311}
+      \range{pages}{9}
+    \endentry
     \entry{barro2011macroeconomic}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=12e80febb122b75421416b9e181d4657}{%
@@ -1594,6 +1771,50 @@
       \field{year}{2018}
       \field{pages}{1425\bibrangedash 1470}
       \range{pages}{46}
+    \endentry
+    \entry{berge2021fiscal}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=5a50566ea772395067292532bd86513f}{%
+           family={Berge},
+           familyi={B\bibinitperiod},
+           given={Travis},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6979298cd847110a653742e21385e651}{%
+           family={De\bibnamedelima Ridder},
+           familyi={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Maarten},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bfbe56e4b49367d3a5448ac5a5fbd69a}{%
+           family={Pfajfar},
+           familyi={P\bibinitperiod},
+           given={Damjan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{7bea3e345a38a3fe05c1ea4bc589d034}
+      \strng{fullhash}{6062ea7393c72e7cc409c39b03d685a0}
+      \strng{bibnamehash}{6062ea7393c72e7cc409c39b03d685a0}
+      \strng{authorbibnamehash}{6062ea7393c72e7cc409c39b03d685a0}
+      \strng{authornamehash}{7bea3e345a38a3fe05c1ea4bc589d034}
+      \strng{authorfullhash}{6062ea7393c72e7cc409c39b03d685a0}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Economic Review}
+      \field{title}{When is the fiscal multiplier high? A comparison of four business cycle phases}
+      \field{volume}{138}
+      \field{year}{2021}
+      \field{pages}{103852}
+      \range{pages}{1}
     \endentry
     \entry{blanchard2002empirical}{article}{}
       \name{author}{2}{}{%
@@ -2045,6 +2266,51 @@
       \field{year}{2020}
       \field{pages}{1\bibrangedash 19}
       \range{pages}{19}
+    \endentry
+    \entry{gali2007understanding}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=9f86081942834923a86a56e2f4d2a7cd}{%
+           family={Galí},
+           familyi={G\bibinitperiod},
+           given={Jordi},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f19bbb84b71314647fa00b2b9e08429f}{%
+           family={López-Salido},
+           familyi={L\bibinithyphendelim S\bibinitperiod},
+           given={J\bibnamedelima David},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=29e9241f2e882fe10dd5a243f1b22f38}{%
+           family={Vallés},
+           familyi={V\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{f66b663631da89f387d61bb2711e3835}
+      \strng{fullhash}{4852cf9b099edc2168bcb3bd9f422f48}
+      \strng{bibnamehash}{4852cf9b099edc2168bcb3bd9f422f48}
+      \strng{authorbibnamehash}{4852cf9b099edc2168bcb3bd9f422f48}
+      \strng{authornamehash}{f66b663631da89f387d61bb2711e3835}
+      \strng{authorfullhash}{4852cf9b099edc2168bcb3bd9f422f48}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the european economic association}
+      \field{number}{1}
+      \field{title}{Understanding the effects of government spending on consumption}
+      \field{volume}{5}
+      \field{year}{2007}
+      \field{pages}{227\bibrangedash 270}
+      \range{pages}{44}
     \endentry
     \entry{gechert2012fiscal}{report}{}
       \name{author}{2}{}{%
